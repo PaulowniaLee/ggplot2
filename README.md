@@ -1,5 +1,5 @@
 # ggplot2
-R scripts on visualisation <br\>
+R scripts on visualisation <br/>
 
 - ggplot_basic details the structure of ggplot2 functions.
 - Distribution contains popular visualisation for statistical results, including histogram, density plots, boxplots, and customising plots details.
